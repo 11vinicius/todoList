@@ -1,16 +1,18 @@
-# todo_list
+# Todo List
+Aplicação de armazenagem de tarefas do Cotidiano utilizando os ultimos [pacotes](#pacotes) do flutter.
 
-A new Flutter project.
+<img src="https://ik.imagekit.io/b6zkufswuz/todo_flutter_LZvAPSzt6.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1644245900554">
 
-## Getting Started
+----
+## Pacotes
+* [SharedPreferences](https://github.com/mitchtabian/SharedPreferences)
+* [flutter_slidable](https://github.com/letsar/flutter_slidable)
 
-This project is a starting point for a Flutter application.
+# Como Baixar
+`
+---Clonar Repositório
+ $https://github.com/11vinicius/todoList.git
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
